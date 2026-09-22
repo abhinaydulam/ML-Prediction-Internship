@@ -1,0 +1,12 @@
+[project]
+name = "ml-production-pipeline"
+version = "0.1.0"
+description = "Production-style ML pipeline: data -> features -> train -> evaluate -> serve"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
