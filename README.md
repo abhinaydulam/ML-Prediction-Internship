@@ -193,7 +193,5 @@ MIT
 
 ## Contact
 
-**Pranshu Kumar**
-- GitHub: [github.com/pranshu1921](https://github.com/pranshu1921)
-- LinkedIn: [linkedin.com/in/pranshu-kumar](https://www.linkedin.com/in/pranshu-kumar)
-- Email: pranshukumarpremi@gmail.com
+**Name** :Murali Krishna
+**Call** 9059038267
